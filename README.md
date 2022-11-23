@@ -1,4 +1,4 @@
-# JetBrainsAcademy_CodeFour
+# JetBrainsAcademy_ConnectFour
 
 This project is a simple implementation of the game Connect Four. 
 
